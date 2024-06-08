@@ -1,10 +1,12 @@
-export const metadata = {
-  title: 'Portfolio - About',
-  description: 'The about page of my portfolio.',
-}
+import AboutMe from "@/components/AboutMe";
 
-export default function About() {
-  return (
-    <div>About</div>
-  );
-}
+export const metadata = {
+  title: "Portfolio - About",
+  description: "The about page of my portfolio.",
+};
+
+const About = () => {
+  return <AboutMe />;
+};
+
+export default About;
