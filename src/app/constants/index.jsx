@@ -31,21 +31,21 @@ export const ARTICLES = [
 
 export const EXPERIENCES = [
   {
-    logo: "/victaulic-ucf.jpg",
+    logo: "victaulic-ucf.jpg",
     organization: "Victaulic / UCF",
     jobTitle: "Software Engineer",
     startYear: 2023,
     endYear: null,
   },
   {
-    logo: "/icsa.webp",
+    logo: "icsa.webp",
     organization: "ICSA Digital",
     jobTitle: "Fullstack Web Developer",
     startYear: 2020,
     endYear: 2023,
   },
   {
-    logo: "/trinity.jpeg",
+    logo: "trinity.jpeg",
     organization: "Trinity Rail",
     jobTitle: "Data Capturer",
     startYear: 2019,
@@ -63,37 +63,37 @@ export const PROJECTS = [
   {
     company: "Company",
     description: "Creating technology to empower civilians to explore space on their own terms.",
-    logo: "/company-logo.png",
+    logo: "company-logo.png",
     link: "https://company.com",
   },
   {
     company: "Company",
     description: "Creating technology to empower civilians to explore space on their own terms.",
-    logo: "/company-logo.png",
+    logo: "company-logo.png",
     link: "https://company.com",
   },
   {
     company: "Company",
     description: "Creating technology to empower civilians to explore space on their own terms.",
-    logo: "/company-logo.png",
+    logo: "company-logo.png",
     link: "https://company.com",
   },
   {
     company: "Company",
     description: "Creating technology to empower civilians to explore space on their own terms.",
-    logo: "/company-logo.png",
+    logo: "company-logo.png",
     link: "https://company.com",
   },
   {
     company: "Company",
     description: "Creating technology to empower civilians to explore space on their own terms.",
-    logo: "/company-logo.png",
+    logo: "company-logo.png",
     link: "https://company.com",
   },
   {
     company: "Company",
     description: "Creating technology to empower civilians to explore space on their own terms.",
-    logo: "/company-logo.png",
+    logo: "company-logo.png",
     link: "https://company.com",
   },
 ];
