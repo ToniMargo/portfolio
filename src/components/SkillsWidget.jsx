@@ -5,7 +5,7 @@ const SkillsWidget = () => {
   return (
     <section className="flex flex-col p-6 border border-gray-300 rounded-md w-full max-w-lg gap-3 shadow-md">
       <h2 className="flex m-0 text-2xl font-bold text-gray-800">
-        <img src="/bolt.svg" alt="Bolt" className="w-5 mr-2"></img>Skills
+        <img src="bolt.svg" alt="Bolt" className="w-5 mr-2"></img>Skills
       </h2>
       <p className="text-base text-gray-500">
         I posess a plethora of skills in various programming languages, development frameworks, and project management.

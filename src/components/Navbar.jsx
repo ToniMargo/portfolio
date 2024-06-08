@@ -37,7 +37,7 @@ const Navbar = () => {
         <div className="block">
           <button className="w-fit m-4 mb-0 py-3 px-5 flex bg-white rounded-3xl border" onClick={toggleDropdown}>
             Menu
-            <img src="/chevron-down.svg" alt="down-arrow" className="ml-3 align-middle" />
+            <img src="chevron-down.svg" alt="down-arrow" className="ml-3 align-middle" />
           </button>
           {isOpen && (
             <div className="absolute w-full m-4 mt-0 px-5 flex flex-col bg-white">

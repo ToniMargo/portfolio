@@ -5,7 +5,7 @@ const WorkWidget = () => {
   return (
     <section className="flex flex-col p-6 border border-gray-300 rounded-md shadow-md w-full max-w-lg gap-3">
       <h2 className="flex items-center m-0 text-2xl font-bold text-gray-800">
-        <img src="/suitcase.svg" alt="Suitcase" className="mr-2" />
+        <img src="suitcase.svg" alt="Suitcase" className="mr-2" />
         Experience
       </h2>
       <p className="text-base text-gray-500">Crafting Solutions, Driving Innovation</p>

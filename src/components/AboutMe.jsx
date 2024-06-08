@@ -23,7 +23,7 @@ const AboutMe = () => {
       {/* Left Column */}
       <div className="md:col-span-1 ">
         {isSmallScreen ? (
-          <img src="/photo-small.jpg" alt="Photo of me" className="rounded lg:max-w-5 mb-12 md:mb-0" />
+          <img src="photo-small.jpg" alt="Photo of me" className="rounded lg:max-w-5 mb-12 md:mb-0" />
         ) : null}
         <div className="p-6">
           <h1 className="text-3xl md:text-6xl font-bold mb-4">Innovator, Problem Solver, Software Engineer</h1>
@@ -54,11 +54,11 @@ const AboutMe = () => {
       <div className="md:col-span-1">
         <div className="p-6">
           {isSmallScreen ? null : (
-            <img src="/photo.jpg" alt="Photo of me" className="rounded md:w-full lg:max-w-xl mb-12 md:mb-0" />
+            <img src="photo.jpg" alt="Photo of me" className="rounded md:w-full lg:max-w-xl mb-12 md:mb-0" />
           )}
           <div className="lg:mt-16 flex flex-col">
             <a href="#" className="flex flex-row my-2">
-              <img src="/X.svg" alt="X" className="mr-2" />
+              <img src="X.svg" alt="X" className="mr-2" />
               <p>Follow me on X</p>
             </a>
             <a href="#" className="flex flex-row my-2">
@@ -66,12 +66,12 @@ const AboutMe = () => {
               <p>Follow me on GitHub</p>
             </a>
             <a href="#" className="flex flex-row my-2">
-              <img src="/LinkedIn.svg" alt="LinkedIn" className="mr-2" />
+              <img src="LinkedIn.svg" alt="LinkedIn" className="mr-2" />
               <p>Follow me on LinkedIn</p>
             </a>
 
             <a href="#" className="flex flex-row my-16">
-              <img src="/envelope.svg" alt="envelope" className="mr-2" />
+              <img src="envelope.svg" alt="envelope" className="mr-2" />
               <p>tonihmartinez@gmail.com</p>
             </a>
           </div>

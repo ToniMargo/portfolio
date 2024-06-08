@@ -32,7 +32,7 @@ const SignupWidget = ({ simulateNetworkRequestTime }) => {
       autoComplete="off"
     >
       <h2 className="flex m-0 text-2xl font-bold text-gray-800">
-        <img src="/envelope.svg" alt="Envelope" className="w-5 mr-2"></img>Stay up to date
+        <img src="envelope.svg" alt="Envelope" className="w-5 mr-2"></img>Stay up to date
       </h2>
       {isSubscribed && <p className="text-black">{message}</p>}
       {!isSubscribed && (
